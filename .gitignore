@@ -1,0 +1,12 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/Cache/
+.obsidian/Code Cache/
+.obsidian/GPUCache/
+.obsidian/Crashpad/
+.obsidian/logs/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
